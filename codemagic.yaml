@@ -36,4 +36,4 @@ workflows:
       - build/app/outputs/**/mapping.txt
     publishing:
       email:
-        recipients: []
+        recipients: [ahmedramdan1g1@gmail.com]
